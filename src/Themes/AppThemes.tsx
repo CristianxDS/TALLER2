@@ -33,5 +33,17 @@ BotonEnviar:{
     borderRadius:25,
     marginTop:30,
 },
+title:{
+    textAlign:'center',
+    fontWeight:'bold', 
+    fontSize:20,
+    backgroundColor:'gray'
+},
+primerboton:{
+    marginTop:100,
+    alignItems:'center',
+    justifyContent:'center'
+}
+
 })
  export default styles
